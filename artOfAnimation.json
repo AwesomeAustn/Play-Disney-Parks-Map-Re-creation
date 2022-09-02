@@ -1,0 +1,473 @@
+    "artOfAnimation_2022": {
+        "item: 1": {
+            "height": "1030",
+            "imageName": "arta_gameboard_bg",
+            "isBackground": "true",
+            "isLooping": "false",
+            "isPlayable": "false",
+            "type": "image",
+            "version": "todo",
+            "width": "1000",
+            "x": "-1",
+            "y": "0"
+        },
+        "layer: 2": {
+            "item: 1": {
+                "height": "85",
+                "imageName": "arta_cars_sheriff",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "101",
+                "x": "532",
+                "y": "699"
+            },
+            "item: 2": {
+                "height": "279",
+                "imageName": "arta_cars_hotelR",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "202",
+                "x": "577",
+                "y": "738"
+            },
+            "item: 3": {
+                "height": "114",
+                "imageName": "arta_cars_cozycone",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "74",
+                "x": "491",
+                "y": "798"
+            },
+            "item: 4": {
+                "height": "60",
+                "imageName": "arta_cars_cones",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "86",
+                "x": "485",
+                "y": "958"
+            },
+            "item: 5": {
+                "height": "279",
+                "imageName": "arta_cars_hotelL",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "202",
+                "x": "277",
+                "y": "737"
+            }
+        },
+        "layer: 3": {
+            "item: 1": {
+                "height": "178",
+                "imageName": "arta_nemo_hotelA",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "387",
+                "x": "490",
+                "y": "250"
+            },
+            "item: 10": {
+                "height": "25",
+                "imageName": "arta_nemo_blueumbrella",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "33",
+                "x": "419",
+                "y": "501"
+            },
+            "item: 11": {
+                "height": "25",
+                "imageName": "arta_nemo_blueumbrella",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "33",
+                "x": "490",
+                "y": "462"
+            },
+            "item: 12": {
+                "height": "25",
+                "imageName": "arta_nemo_blueumbrella",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "33",
+                "x": "525",
+                "y": "516"
+            },
+            "item: 13": {
+                "height": "25",
+                "imageName": "arta_nemo_blueumbrella",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "33",
+                "x": "597",
+                "y": "452"
+            },
+            "item: 14": {
+                "height": "25",
+                "imageName": "arta_nemo_blueumbrella",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "33",
+                "x": "764",
+                "y": "461"
+            },
+            "item: 15": {
+                "height": "42",
+                "imageName": "arta_nemo_dropoff",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "59",
+                "x": "451",
+                "y": "536"
+            },
+            "item: 16": {
+                "height": "207",
+                "imageName": "arta_nemo_hotelB",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "385",
+                "x": "490",
+                "y": "532"
+            },
+            "item: 17": {
+                "height": "76",
+                "imageName": "arta_nemo_darktree",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "35",
+                "x": "500",
+                "y": "592"
+            },
+            "item: 18": {
+                "height": "76",
+                "imageName": "arta_nemo_tree",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "35",
+                "x": "481",
+                "y": "616"
+            },
+            "item: 19": {
+                "height": "91",
+                "imageName": "arta_nemo_pinetree",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "51",
+                "x": "681",
+                "y": "684"
+            },
+            "item: 2": {
+                "height": "66",
+                "imageName": "arta_nemo_palmtree",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "49",
+                "x": "500",
+                "y": "375"
+            },
+            "item: 3": {
+                "height": "66",
+                "imageName": "arta_nemo_palmtree",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "49",
+                "x": "817",
+                "y": "375"
+            },
+            "item: 4": {
+                "height": "67",
+                "imageName": "arta_nemo_crush",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "73",
+                "x": "634",
+                "y": "396"
+            },
+            "item: 5": {
+                "height": "124",
+                "imageName": "arta_nemo_pool",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "217",
+                "x": "565",
+                "y": "421"
+            },
+            "item: 6": {
+                "height": "42",
+                "imageName": "arta_nemo_building",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "44",
+                "x": "452",
+                "y": "413"
+            },
+            "item: 7": {
+                "height": "25",
+                "imageName": "arta_nemo_redumbrella",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "33",
+                "x": "466",
+                "y": "437"
+            },
+            "item: 8": {
+                "height": "25",
+                "imageName": "arta_nemo_redumbrella",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "33",
+                "x": "466",
+                "y": "521"
+            },
+            "item: 9": {
+                "height": "25",
+                "imageName": "arta_nemo_redumbrella",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "33",
+                "x": "764",
+                "y": "499"
+            }
+        },
+        "layer: 4": {
+            "item: 1": {
+                "height": "405",
+                "imageName": "arta_lobby_mainbuilding",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "299",
+                "x": "127",
+                "y": "171"
+            },
+            "item: 2": {
+                "height": "159",
+                "imageName": "arta_lobby_drawings",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "116",
+                "x": "244",
+                "y": "492"
+            },
+            "item: 3": {
+                "height": "90",
+                "imageName": "arta_lobby_sign",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "148",
+                "x": "178",
+                "y": "646"
+            },
+            "item: 4": {
+                "height": "93",
+                "imageName": "arta_lobby_bigpalmtree",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "50",
+                "x": "302",
+                "y": "635"
+            },
+            "item: 5": {
+                "height": "66",
+                "imageName": "arta_lobby_palmtree",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "49",
+                "x": "319",
+                "y": "676"
+            },
+            "item: 6": {
+                "height": "28",
+                "imageName": "arta_lobby_bush",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "130",
+                "x": "187",
+                "y": "724"
+            }
+        },
+        "layer: 5": {
+            "item: 1": {
+                "height": "50",
+                "imageName": "arta_lion_timonpumbaa",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "75",
+                "x": "350",
+                "y": "14"
+            },
+            "item: 10": {
+                "height": "25",
+                "imageName": "arta_lion_yellowumbrella",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "33",
+                "x": "356",
+                "y": "125"
+            },
+            "item: 11": {
+                "height": "25",
+                "imageName": "arta_lion_yellowumbrella",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "33",
+                "x": "383",
+                "y": "139"
+            },
+            "item: 2": {
+                "height": "235",
+                "imageName": "arta_lion_hotelL",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "236",
+                "x": "277",
+                "y": "0"
+            },
+            "item: 3": {
+                "height": "235",
+                "imageName": "arta_lion_hotelR",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "258",
+                "x": "521",
+                "y": "0"
+            },
+            "item: 4": {
+                "height": "66",
+                "imageName": "arta_lion_palmtree",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "49",
+                "x": "738",
+                "y": "79"
+            },
+            "item: 5": {
+                "height": "93",
+                "imageName": "arta_lion_bigpalmtree",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "50",
+                "x": "542",
+                "y": "132"
+            },
+            "item: 6": {
+                "height": "83",
+                "imageName": "arta_lion_rocksL",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "94",
+                "x": "400",
+                "y": "184"
+            },
+            "item: 7": {
+                "height": "83",
+                "imageName": "arta_lion_rocksR",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "94",
+                "x": "563",
+                "y": "183"
+            },
+            "item: 8": {
+                "height": "90",
+                "imageName": "arta_lion_priderock",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "94",
+                "x": "471",
+                "y": "193"
+            },
+            "item: 9": {
+                "height": "76",
+                "imageName": "arta_lion_tree",
+                "isLooping": "false",
+                "isPlayable": "false",
+                "type": "image",
+                "version": "todo",
+                "width": "35",
+                "x": "460",
+                "y": "238"
+            }
+        }
+    },
